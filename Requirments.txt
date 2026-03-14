@@ -1,0 +1,9 @@
+Mark Predictor
+
+A simple Machine Learning project that predicts student marks based on study hours using Linear Regression.
+
+Requirements:
+  Python
+  GUI(tkinter)
+  pandas(py library)
+  scikit-learn(py library)
